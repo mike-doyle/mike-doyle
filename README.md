@@ -1,16 +1,14 @@
 #  🎮 Mike Doyle
+**`Software Engineer - Game Developer - Tech Enthusiast`**
 
-Hey There! I'm am a CS Major currently enrolled at WGU. I like to code primarily in C# and C++
-I am very much interested in learning how to program video games specifically but have a passion for 
-anything to do with software or tech in general. 
+Hey There! I'm a CS Major currently enrolled at WGU. I primarily code in C# and C++ but am open to learning all languages.
+My passion for programming stems from my love for video games and computer software. I've always had a knack for problem solving and finding
+new and creative ways to envision solutions to everyday tasks, big and small. I always look for opportunities to learn and grow as I continue on my journey!
 
-### Top 5 Games All Time
-1. World of Warcraft ⚔️
-2. Fallout New Vegas 🃏
-3. CS:GO 🔫
-4. Diablo 2 💀
-5. Shin Megami Tensei III: Nocturne 👹
+---
 
-# Always Working... 🧌
+### Always Working... 🧌 
   <img align="left" alt="Java"  src="https://github.com/mike-doyle/mike-doyle/blob/main/peon-work-work.gif" />
+
+
 
