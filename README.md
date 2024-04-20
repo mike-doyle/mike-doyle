@@ -28,15 +28,16 @@ click the link below to subscribe!
 <br />
 
 #
-### Video Games I love 
 
-1. World of Warcraft <img align="center" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-2. Fallout New Vegas
-3. CS:GO
-4. Warcraft 3
-5. Bioshock 1 & 2
-6. Dark Souls 3
-7. Pokémon Platinum 
+### 🎮 Video Games I love ❤️
+
+1. World of Warcraft <img align="center" alt="C#" width="26px" style="padding-right:10px;" src="https://github.com/mike-doyle/mike-doyle/blob/main/world-of-warcraft.png" />
+2. Fallout New Vegas <img align="center" alt="C#" width="26px" style="padding-right:10px;" src="https://github.com/mike-doyle/mike-doyle/blob/main/nuclear-power.png" />
+3. CS:GO <img align="center" alt="C#" width="26px" style="padding-right:10px;" src="https://github.com/mike-doyle/mike-doyle/blob/main/soldier.png" />
+4. Warcraft 3 <img align="center" alt="C#" width="26px" style="padding-right:10px;" src="https://github.com/mike-doyle/mike-doyle/blob/main/orc.png" />
+5. Bioshock 1 & 2 <img align="center" alt="C#" width="26px" style="padding-right:10px;" src="https://github.com/mike-doyle/mike-doyle/blob/main/underwater-city.png" />
+6. Dark Souls 3 <img align="center" alt="C#" width="26px" style="padding-right:10px;" src="https://github.com/mike-doyle/mike-doyle/blob/main/knight.png" />
+7. Pokémon Platinum <img align="center" alt="C#" width="26px" style="padding-right:10px;" src="https://github.com/mike-doyle/mike-doyle/blob/main/pikachu.png" />
 
 
 # 
