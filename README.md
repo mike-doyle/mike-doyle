@@ -5,6 +5,9 @@ Hey There! I'm a CS Major currently enrolled at WGU. I primarily code in C# and 
 My passion for programming stems from my love for video games and computer software. I've always had a knack for problem solving and finding
 new and creative ways to envision solutions to everyday tasks, big and small. I always look for opportunities to learn and grow as I continue on my journey!
 
+<a href="[https://www.youtube.com/c/fknight?sub_confirmation=1](https://www.youtube.com/channel/UCA2w3P2etSCbKrvB9xqzX-A)">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+
 ---
 
 ### Always Working... 🧌 
