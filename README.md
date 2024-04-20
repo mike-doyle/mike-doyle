@@ -6,7 +6,7 @@ My passion for programming stems from my love for video games and computer softw
 new and creative ways to envision solutions to everyday tasks, big and small. I always look for opportunities to learn and grow as I continue on my journey!
 
 <a href="https://www.youtube.com/@MDCodez?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCA2w3P2etSCbKrvB9xqzX-A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
 
 ---
 
