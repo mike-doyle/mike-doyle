@@ -1,3 +1,5 @@
+<span font-family="inter">
+         
 #  🚶🏼‍♂️ Mike Doyle
 **`Software Engineer - Game Developer - Tech Enthusiast`**
 
@@ -42,7 +44,7 @@ click the link below to subscribe!
 
 # 
 
-### Always Working... 🧌 
+### Always Working... 
   <img align="left" alt="Java"  src="https://github.com/mike-doyle/mike-doyle/blob/main/peon-work-work.gif" />
 
 
@@ -50,5 +52,6 @@ click the link below to subscribe!
 
   [youtube]: https://www.youtube.com/@MDCodez
 
+</span>
 
 
