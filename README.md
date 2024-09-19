@@ -1,7 +1,7 @@
 <span font-family="inter">
          
 #  🚶🏼‍♂️ Mike Doyle
-**`Software Engineer - Game Developer - Tech Enthusiast`**
+**`Engineer - Developer - Tech Enthusiast`**
 
 Hey There! I'm a Computer Science Major currently enrolled at WGU, every project I post here are my own built from the ground up. 
 My passion for programming stems from my love for video games and computer software. I've always had a knack for problem solving and finding
