@@ -36,24 +36,6 @@ click the link below to subscribe!
 
 #
 
-### 🎮 Video Games I love ❤️
-
-1. World of Warcraft <img align="center" alt="C#" width="26px" style="padding-right:10px;" src="https://github.com/mike-doyle/mike-doyle/blob/main/world-of-warcraft.png" />
-2. Fallout New Vegas <img align="center" alt="C#" width="26px" style="padding-right:10px;" src="https://github.com/mike-doyle/mike-doyle/blob/main/nuclear-power.png" />
-3. CS:GO <img align="center" alt="C#" width="26px" style="padding-right:10px;" src="https://github.com/mike-doyle/mike-doyle/blob/main/soldier.png" />
-4. Warcraft 3 <img align="center" alt="C#" width="26px" style="padding-right:10px;" src="https://github.com/mike-doyle/mike-doyle/blob/main/orc.png" />
-5. Bioshock 1 & 2 <img align="center" alt="C#" width="26px" style="padding-right:10px;" src="https://github.com/mike-doyle/mike-doyle/blob/main/underwater-city.png" />
-6. Dark Souls 3 <img align="center" alt="C#" width="26px" style="padding-right:10px;" src="https://github.com/mike-doyle/mike-doyle/blob/main/knight.png" />
-7. Pokémon Platinum <img align="center" alt="C#" width="26px" style="padding-right:10px;" src="https://github.com/mike-doyle/mike-doyle/blob/main/pikachu.png" />
-
-
-# 
-
-### Always Working... 
-  <img align="left" alt="Java"  src="https://github.com/mike-doyle/mike-doyle/blob/main/peon-work-work.gif" />
-
-
-
 
   [youtube]: https://www.youtube.com/@MDCodez
 
